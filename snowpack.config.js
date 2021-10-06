@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://wiljo2.github.io/AvocadoApi'
+    baseUrl: 'https://wiljo2.github.io/AvocadoApi/'
   },
 }
