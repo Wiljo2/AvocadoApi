@@ -1,4 +1,5 @@
 {
+  "homepage": "https://wiljo2.github.io/AvocadoApi",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
